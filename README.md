@@ -1,4 +1,4 @@
-# vsm
+# VSM Monorepo
 VSM Monorepo containing custom work ie processors, connectors 
 
 
